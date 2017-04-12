@@ -1,0 +1,3 @@
+---
+- name: 'Sleep for a while'
+  command: 'sleep 5'
